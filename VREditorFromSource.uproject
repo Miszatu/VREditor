@@ -1,0 +1,12 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{92CD0F22-433E-6194-6EEA-B38AE4AA2DF1}",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "PerformanceMonitor",
+			"Enabled": true
+		}
+	]
+}
